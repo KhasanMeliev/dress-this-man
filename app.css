@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+  }
+  .head {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 100px;
+    margin-left: 200px;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  .hear {
+    width: 80px;
+    height: 20px;
+    background-color: black;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .eyelid {
+    width: 20px;
+    height: 5px;
+    background-color: black;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    margin-top: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  .eyelid2 {
+    width: 20px;
+    height: 5px;
+    background-color: black;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    margin-top: -4px;
+    margin-left: 60px;
+    cursor: pointer;
+  }
+  .eye {
+    width: 20px;
+    height: 10px;
+    background-color: brown;
+    border-radius: 100px;
+    margin-left: 18px;
+    margin-top: 3px;
+    cursor: pointer;
+  }
+  .eye2 {
+    width: 20px;
+    height: 10px;
+    background-color: brown;
+    border-radius: 100px;
+    margin-left: 60px;
+    margin-top: -10px;
+    cursor: pointer;
+  }
+  .whiteeye {
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 8px;
+    margin-top: 3px;
+    cursor: pointer;
+  }
+  
+  .whiteeye2 {
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 8px;
+    margin-top: 3px;
+    cursor: pointer;
+  }
+  
+  .mouse {
+    width: 50px;
+    height: 20px;
+    background-color: black;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    cursor: pointer;
+  }
+  .body {
+    width: 200px;
+    height: 250px;
+    background-color: white;
+    margin-left: 150px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    cursor: pointer;
+  }
+  .arm1 {
+    width: 13px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: -210px;
+    cursor: pointer;
+  }
+  .arm11 {
+    width: 25px;
+    height: 170px;
+    background-color:white;
+    margin-left: 115px;
+    margin-top: -210px;
+    cursor: pointer;
+  }
+  .arm2 {
+    width: 13px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -170px;
+    cursor: pointer;
+  }
+  .arm21 {
+    width: 25px;
+    height: 170px;
+    background-color: white;
+    margin-left: 360px;
+    margin-top: -170px;
+    cursor: pointer;
+  }
+  .leg {
+    width: 40px;
+    height: 150px;
+    background-color: white;
+    margin-left: 190px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+  .leg2 {
+    width: 40px;
+    height: 150px;
+    background-color: white;
+    margin-left: 270px;
+    margin-top: -150px;
+    cursor: pointer;
+  }
